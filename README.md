@@ -2,5 +2,5 @@
 
 Glome is a multi-protocol test doubles over the wire written in Java and Ratpack.
 
-# Hi Sean
+
 
