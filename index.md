@@ -10,5 +10,5 @@ title: Glome
 </div>
 
 <div class="container" style="text-align:center">
-	<img src="{{ site.baseurl }}/GlomeDiagram.png" />
+	<img src="{{ site.baseurl }}/GlomeDiagram.svg" />
 </div>
