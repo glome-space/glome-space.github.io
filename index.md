@@ -2,10 +2,6 @@
 layout: base
 title: The Programming Historian
 ---
-<div class="container" style="text-align:center">
-	<img class="home-image" src="{{ site.baseurl }}/GlomeDiagram.png" />
-</div>
-
 <div class="home-block">
 	<div class="container">
 		<h2>Welcome to Glome</h2>
@@ -13,3 +9,6 @@ title: The Programming Historian
 	</div>
 </div>
 
+<div class="container" style="text-align:center">
+	<img class="home-image" src="{{ site.baseurl }}/GlomeDiagram.png" />
+</div>
