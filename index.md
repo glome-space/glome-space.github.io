@@ -1,6 +1,6 @@
 ---
 layout: base
-title: The Programming Historian
+title: Glome
 ---
 <div class="home-block">
 	<div class="container">
