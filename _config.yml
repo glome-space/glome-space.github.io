@@ -1,2 +1,15 @@
-theme: jekyll-theme-hacker
+name: Glome
 title: Glome
+url: https://glome.space
+baseurl: ""
+permalink: :categories/:title
+exclude:
+  - deprecated
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+highlighter: rouge
+markdown: kramdown
+permalink: :categories/:title
+plugins:
+  - jekyll-redirect-from
